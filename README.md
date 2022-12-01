@@ -1,7 +1,7 @@
 # Garmen
 
 # Projeto.Garmen
-Centro despotivo, em busca de novos talentos 
+Centro desportivo, em busca de novos talentos 
   
   
    O projeto Garmen em busca de novos talentos, busca proporcionar oportunidades para as pessoas que querem seguir carreira no mundo dos esportes. Programamos peneiras de futebol, futsal, vôlei e handebol. Também selecionamos pessoas que se interessam, por esportes menos populares, natação, corrida e atletismo. Buscamos proporcionar melhor qualidade e produtos para que o atleta se desenvolva bem.
@@ -40,7 +40,7 @@ Endereço:Rua Marechal Floriano Peixoto 3735
 Numero de contato:(41) 940028922
 
 
-Instagran:garmen_espostes  
+Instagran:garmen_esportes  
 
 
 
